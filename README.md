@@ -3,5 +3,5 @@
 
 Hi people!
 
-I like Java and angular.js;
-I also communicate with a database using queries!!
+I like kotlin programming for android and 
+could tolerate some more java.
